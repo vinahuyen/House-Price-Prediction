@@ -106,6 +106,6 @@ This project demonstrates the end-to-end process of a **supervised learning regr
 ## 🧑‍💻 Author
 
 **Huyen Nguyen**  
-Columbia University – *Storytelling with Data*  
+University of Colorado Boulder – *Storytelling with Data*  
 
 ---
